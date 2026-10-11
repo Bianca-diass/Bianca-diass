@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou a Bianca 
 
-<!--
-**Bianca-diass/Bianca-diass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de tecnologia com foco em desenvolvimento web e aprimoramento contínuo em programação.
 
-Here are some ideas to get you started:
+📍 Dourados - MS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tecnologias
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+
+🚀 Projetos
+- [Sistema de Apoio Jurídico (TCC)](https://github.com/Bianca-diass/SistemadeApoioJuridico-TCC-2026)
+- [Jogo Sudoku](https://github.com/Bianca-diass/JogoSudoku)
+- [Aplicativo de Abastecimento](https://github.com/Bianca-diass/AplicativoDeAbastecimento)
+
+📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/bianca-dias-g...)
+- biancadiasgonzaga01@gmail.com
