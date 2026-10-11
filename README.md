@@ -16,5 +16,5 @@ Estudante de tecnologia com foco em desenvolvimento web e aprimoramento contínu
 - [Aplicativo de Abastecimento](https://github.com/Bianca-diass/AplicativoDeAbastecimento)
 
 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/bianca-dias-g...)
+- [LinkedIn](https://www.linkedin.com/in/bianca-dias-gonzaga-27575b3b6/?isSelfProfile=true)
 - biancadiasgonzaga01@gmail.com
