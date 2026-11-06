@@ -12,7 +12,6 @@ Estudante de tecnologia com foco em desenvolvimento web e aprimoramento contínu
 
 🚀 Projetos
 - [Sistema de Apoio Jurídico (TCC)](https://github.com/Bianca-diass/SistemadeApoioJuridico-TCC-2026)
-- [Jogo Sudoku](https://github.com/Bianca-diass/JogoSudoku)
 - [Aplicativo de Abastecimento](https://github.com/Bianca-diass/AplicativoDeAbastecimento)
 
 📫 Contato
